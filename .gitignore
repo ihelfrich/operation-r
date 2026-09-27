@@ -1,0 +1,5 @@
+src/snippets.json
+src/jobs.json
+__pycache__/
+.DS_Store
+Rplots.pdf
